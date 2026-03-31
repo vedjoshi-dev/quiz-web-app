@@ -1,2 +1,4 @@
-# quiz-web-app
-Full-stack quiz web application for revision and performance tracking
+# Quiz Web App
+
+## Overview
+This project is a web-based quiz application designed to help users revise topics by answering multiple-choice questions and tracking their performance.
