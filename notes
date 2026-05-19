@@ -1,0 +1,15 @@
+Quiz page needs: a heading for the question, 4 buttons for answers, a small text showing question number, a next button
+
+"A list of questions" → the app shows you questions one by one
+"You answer them" → you click an answer option
+"Give it back to get marked" → you hit submit and the app tells you your score
+
+quiz-app/
+├── index.html        ← landing page
+├── quiz.html         ← quiz page
+├── results.html      ← results page
+├── css/
+│   └── style.css
+└── js/
+    └── quiz.js
+
